@@ -7,7 +7,6 @@ https://public.tableau.com/app/profile/sunny.su2867/viz/CitiBikeAnalytics_162845
 ![Citi-Bikes](Images/Dashboard1.png)
 ![Citi-Bikes](Images/Dashboard2.png)
 ![Citi-Bikes](Images/Dashboard3.png)
-![Citi-Bikes](Images/Captura.PNG)
 
 ## Background
 
