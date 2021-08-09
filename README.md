@@ -1,15 +1,12 @@
-<<<<<<< HEAD
 # Tableau Homework - Citi Bike Analytics
 URL Tableau Public account:
 https://public.tableau.com/app/profile/sunny.su2867/viz/CitiBikeAnalytics_16284551726830/Dashboard1?publish=yes
-=======
 # Tableau - Citi Bike Analytics
->>>>>>> 1176a093be69b5bf665be35b551e097ff6dd201e
 
 **Final dashboards presentation**
-![Citi-Bikes](Images/Dashboard 1.png)
-![Citi-Bikes](Images/Dashboard 2.png)
-![Citi-Bikes](Images/Dashboard 3.png)
+![Citi-Bikes](Images/Dashboard1.png)
+![Citi-Bikes](Images/Dashboard2.png)
+![Citi-Bikes](Images/Dashboard3.png)
 ![Citi-Bikes](Images/Captura.PNG)
 
 ## Background
